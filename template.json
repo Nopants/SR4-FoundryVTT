@@ -139,6 +139,30 @@
             "skills": {
                 "skills": {
                     "active": {
+                        "shadowing": {
+                            "value": 0,
+                            "attribute": "intuition",
+                            "canDefault": true,
+                            "group": "",
+                            "mod": [],
+                            "specs": []
+                        },
+                        "data_search": {
+                            "value": 0,
+                            "attribute": "logic",
+                            "canDefault": true,
+                            "group": "",
+                            "mod": [],
+                            "specs": []
+                        },
+                        "dodge": {
+                            "value": 0,
+                            "attribute": "reaction",
+                            "canDefault": true,
+                            "group": "",
+                            "mod": [],
+                            "specs": []
+                        },
                         "archery": {
                             "value": 0,
                             "attribute": "agility",
